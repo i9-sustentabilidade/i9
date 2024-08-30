@@ -613,7 +613,7 @@ footer {
     width: 20px;
 }
 
-@media (max-width: 1366px) {
+@media (max-width: 1400px) {
     .conhecimento-text{
         width: 110%;
     }
