@@ -623,7 +623,7 @@ footer {
     }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1360px) {
     .conhecimento-header h3 {
         font-size: 1rem;
     }
