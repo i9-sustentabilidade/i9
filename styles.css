@@ -616,7 +616,7 @@ footer {
     }
 }
 
-@media (max-width: 325px) {
+@media (max-width: 600px) {
     .conhecimentos {
         display: none;
         /* flex-direction: column;
