@@ -618,9 +618,9 @@ footer {
 
 @media (max-width: 325px) {
     .conhecimentos {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        display: none;
+        /* flex-direction: column;
+        align-items: center; */
     }
 
     .conhecimento-header img {
